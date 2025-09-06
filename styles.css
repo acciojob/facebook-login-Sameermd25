@@ -12,7 +12,7 @@ body{
   align-items: flex-start;
 }
 
-#left {
+.left {
   width: 450px;
   margin-top: 70px;
   display: flex;
